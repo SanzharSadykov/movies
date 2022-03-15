@@ -1,0 +1,37 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Green Book",
+      "date": "November 16, 2018",
+      "desc": "When Tony Lip (Viggo Mortensen), a bouncer from an Italian-American neighborhood in the Bronx, is hired to drive Dr. Don Shirley (Mahershala Ali), a world-class black pianist, on a concert tour from Manhattan to the Deep South, they must rely on The Green Book to guide them to the few establishments that were then safe for African-Americans. Confronted with racism, danger-as well as unexpected humanity and humor-they are forced to set aside differences to survive and thrive on the journey of a lifetime. [Universal Pictures]",
+      "image": "https://static.metacritic.com/images/products/movies/9/e8e5e4bcabafdf2442e4ba16450bec8f-250h.jpg",
+      "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=10006&e=2208902400&videokbrate=1500&h=f6d9f8f98b2a3947503a53acd784b06a",
+      "meta": 69,
+      "user": "8.0",
+      "genre": "Biography, Drama, History, Comedy, Music"
+    },
+    {
+      "id": 2,
+      "title": "Joker",
+      "date": "October 3, 2019",
+      "desc": "Arthur Fleck (Joaquin Phoenix) is struggling to find his way in Gotham’s fractured society. A clown-for-hire by day, he aspires to be a stand-up comic at night…but finds the joke always seems to be on him. Caught in a cyclical existence between apathy and cruelty, Arthur makes one bad decision that brings about a chain reaction of escalating events.",
+      "image": "https://static.metacritic.com/images/products/movies/3/edb3a2599610a4530f6142b8dc823ce5-250h.jpg",
+      "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=834011&e=2208902400&videokbrate=1500&h=47b7e081410f390c7bc6337b79825a22",
+      "meta": 59,
+      "user": "9.0",
+      "genre": "Action, Adventure, Drama, Thriller, Fantasy, Crime"
+    },
+    {
+      "id": 3,
+      "title": "\t Transformers: The Last Knight",
+      "date": "June 21, 2017",
+      "desc": "Humans and Transformers are at war, Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth. Saving our world falls upon the shoulders of an unlikely alliance: Cade Yeager (Mark Wahlberg); Bumblebee; an English Lord (Sir Anthony Hopkins); and an Oxford Professor (Laura Haddock). There comes a moment in everyone’s life when we are called upon to make a difference. In Transformers: The Last Knight, the hunted will become heroes. Heroes will become villains. Only one world will survive: theirs, or ours.",
+      "image": "https://static.metacritic.com/images/products/movies/0/c7fc11c15a6cc675276e4bd5531705ea-250h.jpg",
+      "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=241059&e=2208902400&videokbrate=1500&h=0091d2a1b212c6a1aa8e72e3d93bbf08",
+      "meta": "27",
+      "user": "4.1",
+      "genre": "Action, Adventure, Sci-Fi, Thriller"
+    }
+  ]
+}
